@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>b4e44174-d253-4060-9d49-f0e85b7486c1</Key>
+		<Name>PVN 21%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>21</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>0088c83d-31d8-400e-8e5d-d5b5dca6e4f4</Key>
+		<Name>PVN 12%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+</TaxCodes>

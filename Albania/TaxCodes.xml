@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>d55d6df6-4f8f-4965-b3ae-2497a4da4cb7</Key>
+		<Name>TVSH 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>41734dd9-fada-40c0-9152-934124f1b440</Key>
+		<Name>TVSH 10%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+</TaxCodes>

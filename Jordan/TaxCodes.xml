@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>bde7fe22-1a6b-4515-b752-2a42e7473675</Key>
+		<Name>GST 16%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>16</Rate>
+	</TaxCode>
+</TaxCodes>

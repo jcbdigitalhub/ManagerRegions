@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>cbda5e85-03fc-4fda-9994-2d746845e024</Key>
+		<Name>НДС 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+</TaxCodes>

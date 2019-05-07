@@ -1,0 +1,26 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>e111d796-d67c-454b-9b4b-aa12d5f788ef</Key>
+		<Name>VAT 12% (Goods)</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>a2ed1aaa-be8f-403f-b113-0e94e31f815f</Key>
+		<Name>VAT 12% (Services)</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>835b3f27-3a6d-4d43-a79c-2016321ca388</Key>
+		<Name>VAT 0%</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>942779a5-e3b5-4b19-8f84-1aa5e8056744</Key>
+		<Name>VAT Exempt</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

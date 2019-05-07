@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>7dca432d-683e-4636-83e7-3f0fc008f07a</Key>
+		<Name>CT 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

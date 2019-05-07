@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>5f1d5dfa-51f4-4b9f-aaa0-bd7b3db3de34</Key>
+		<Name>ПДВ 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+</TaxCodes>

@@ -1,0 +1,18 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>08d40919-b4cb-4668-8969-b51a63da203e</Key>
+		<Name>VAT 14%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>14</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>d6f30896-6c94-4c94-9164-70f4d8849e6b</Key>
+		<Name>VAT 15%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>15</Rate>
+	</TaxCode>
+</TaxCodes>

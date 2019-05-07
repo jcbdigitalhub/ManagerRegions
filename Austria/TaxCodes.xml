@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>fd2bd370-78f5-4721-8ea4-aff4e9a402f5</Key>
+		<Name>UST / MWST 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>bde0106a-e075-4df4-b8e6-8e2f31417e6f</Key>
+		<Name>UST / MWST 10%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+</TaxCodes>

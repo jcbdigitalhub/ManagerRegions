@@ -1,0 +1,10 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>e7b4abde-8bdc-409c-addb-5f74295f5b59</Key>
+		<Name>GST 7%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>7</Rate>
+	</TaxCode>
+</TaxCodes>

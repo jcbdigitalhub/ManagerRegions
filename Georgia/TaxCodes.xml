@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>9ee7cab8-c5cf-4a02-9e95-945b2bbd7c2c</Key>
+		<Name>DGhG 18%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+</TaxCodes>

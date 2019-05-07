@@ -1,0 +1,30 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>a2b881af-911c-457f-82e3-44637a23a43f</Key>
+		<Name>ΦΠΑ 19%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>19</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>4575e8fc-c324-48b2-86f9-0c5cc02ff800</Key>
+		<Name>ΦΠΑ 18%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>be3cde62-5ba1-4eb1-ae73-1c82c07a0321</Key>
+		<Name>ΦΠΑ 8%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>8</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>a3131461-f6fa-4548-ad5c-e810739b5127</Key>
+		<Name>ΦΠΑ 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

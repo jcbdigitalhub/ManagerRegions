@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>49f7db2b-8c5b-4b49-abe3-83aacddf6aaa</Key>
+		<Name>IVA 12%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+</TaxCodes>

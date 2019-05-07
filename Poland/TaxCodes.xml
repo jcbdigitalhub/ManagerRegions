@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>164d2efe-7a41-4e94-a1fa-b105fab01259</Key>
+		<Name>PTU 23%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>23</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>b5ed7b88-77a9-4f07-93bf-94ed5ea6e3c2</Key>
+		<Name>PTU 8%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>8</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>28c2facd-ec2c-4199-8183-83b73f9e2f6e</Key>
+		<Name>PTU 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

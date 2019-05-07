@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>19da2a05-4995-4a45-b460-8331df5218c5</Key>
+		<Name>ДДС 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>7441fd6c-90ff-44e5-b762-95326eb452f3</Key>
+		<Name>ДДС 9%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>9</Rate>
+	</TaxCode>
+</TaxCodes>

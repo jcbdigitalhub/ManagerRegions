@@ -1,0 +1,18 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>88b8763f-630a-439a-82a3-4cdac956a699</Key>
+		<Name>GST 6%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>6</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>ca7c4639-c2af-4298-a32d-ddae7e138752</Key>
+		<Name>GST 10%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+</TaxCodes>

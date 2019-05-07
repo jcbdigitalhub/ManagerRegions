@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>3a502522-fa27-4f5b-b5fa-7024c0a8effc</Key>
+		<Name>ITBMS 7%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>7</Rate>
+	</TaxCode>
+</TaxCodes>

@@ -1,0 +1,311 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>69831b78-192c-4715-9129-9aafa64ccaa3</Key>
+		<Name>GST 0%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>7da36370-235d-48ee-a5ce-1660a8102ebf</Key>
+		<Name>CGST + SGST 0.25%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>0.125</Rate>
+			</Component>
+			<Component>
+				<Name>SGST</Name>
+				<Rate>0.125</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>48565e06-c5be-4e8b-8610-ec44b2a34026</Key>
+		<Name>CGST + SGST 3%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>1.5</Rate>
+			</Component>
+			<Component>
+				<Name>SGST</Name>
+				<Rate>1.5</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>ff0e8c9e-ae08-4689-baef-7e9979cbd43b</Key>
+		<Name>CGST + SGST 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>2.5</Rate>
+			</Component>
+			<Component>
+				<Name>SGST</Name>
+				<Rate>2.5</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>b1a06a8e-b84f-4f7f-8c0f-4fae535d24c2</Key>
+		<Name>CGST + SGST 12%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>6</Rate>
+			</Component>
+			<Component>
+				<Name>SGST</Name>
+				<Rate>6</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>7a1b5359-d919-4b1e-b830-e52ec686c39b</Key>
+		<Name>CGST + SGST 18%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>9</Rate>
+			</Component>
+			<Component>
+				<Name>SGST</Name>
+				<Rate>9</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>488e249f-220d-4277-98a8-2f01335db583</Key>
+		<Name>CGST + SGST 28%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>14</Rate>
+			</Component>
+			<Component>
+				<Name>SGST</Name>
+				<Rate>14</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>63eba6a3-c913-445b-91f9-44855a7ce102</Key>
+		<Name>IGST 0.25%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>0.25</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>e3172e58-57e1-4b01-900e-e5fd658c671f</Key>
+		<Name>IGST 3%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>3</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>90675cbb-0d8b-4be8-b4c6-ceb656a4905e</Key>
+		<Name>IGST 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>eb0d7e38-4787-4df4-8cd6-1708c82c91b6</Key>
+		<Name>IGST 12%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>2b1096b2-d8af-4875-b48f-45faca996fc4</Key>
+		<Name>IGST 18%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>a7624309-3333-4249-baa4-f4abb5d9b71e</Key>
+		<Name>IGST 28%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>28</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>23f960f7-4839-4677-af3e-ec09366a8a51</Key>
+		<Name>CGST + UTGST 0.25%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>0.125</Rate>
+			</Component>
+			<Component>
+				<Name>UTGST</Name>
+				<Rate>0.125</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>b4d13de0-504e-4e37-9c58-9a76fa104992</Key>
+		<Name>CGST + UTGST 3%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>1.5</Rate>
+			</Component>
+			<Component>
+				<Name>UTGST</Name>
+				<Rate>1.5</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>478fc7fe-b86e-4d24-a1d1-843fc389ed9f</Key>
+		<Name>CGST + UTGST 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>2.5</Rate>
+			</Component>
+			<Component>
+				<Name>UTGST</Name>
+				<Rate>2.5</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>f96d6838-38b1-47bb-9a63-86b683bf102e</Key>
+		<Name>CGST + UTGST 12%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>6</Rate>
+			</Component>
+			<Component>
+				<Name>UTGST</Name>
+				<Rate>6</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>42bbfd9f-51e9-4321-a218-963c8f1878ec</Key>
+		<Name>CGST + UTGST 18%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>9</Rate>
+			</Component>
+			<Component>
+				<Name>UTGST</Name>
+				<Rate>9</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>ecaede5e-1efb-4bae-8451-1ca5ef67024f</Key>
+		<Name>CGST + UTGST 28%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>MultiRate</TaxRateType>
+		<Components>
+			<Component>
+				<Name>CGST</Name>
+				<Rate>14</Rate>
+			</Component>
+			<Component>
+				<Name>UTGST</Name>
+				<Rate>14</Rate>
+			</Component>
+		</Components>
+	</TaxCode>
+	<TaxCode>
+		<Key>71813c71-7833-4911-9cbe-3d961486344d</Key>
+		<Name>Service Tax 12.36%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12.36</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>75bd30b9-4727-40c9-bc70-d7d71b40f374</Key>
+		<Name>Service Tax 14%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>14</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>a7afc831-aebd-4a1e-bd07-eb14a4b5f311</Key>
+		<Name>Service Tax 14.5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>14.5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>20888f96-8ef3-4023-9c54-3f6e41cf14f0</Key>
+		<Name>CST 4%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>4</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>cdca06f2-9732-45a2-88a2-3dfeb2da3fc0</Key>
+		<Name>CST Exempt</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>492ed057-ff77-410e-a045-9d269e4603c9</Key>
+		<Name>VAT 14.5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>14.5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>c79ebcef-2ee5-4c64-9078-ca73b49aa5f5</Key>
+		<Name>VAT 5.5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5.5</Rate>
+	</TaxCode>
+</TaxCodes>

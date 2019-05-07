@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>73852216-a834-42e5-b8d6-b149c730a76b</Key>
+		<Name>TVA 24%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>24</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>603f8ff3-2710-41e6-99d0-4b0bc52653ee</Key>
+		<Name>TVA 9%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>9</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>ae209f82-dd4b-4163-a7c5-19d686f93f31</Key>
+		<Name>TVA 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

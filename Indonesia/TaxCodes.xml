@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>a1d415be-5c85-4406-8c57-1c1d4897a3ff</Key>
+		<Name>PPN 10%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>ef44bd59-0447-4ea6-b982-d1cc60c2d00b</Key>
+		<Name>PPN 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

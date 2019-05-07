@@ -1,0 +1,41 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>6959fb01-3a48-486a-9bec-a0681a662f03</Key>
+		<Name>VAT 0%</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>56769971-405e-47bd-bd13-d64de0eae752</Key>
+		<Name>VAT 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>4ca35740-f9b7-4dc6-bc88-08bdc8715994</Key>
+		<Name>VAT 5% on Imports</Name>
+		<TaxRate>TotalRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>b926c2d8-09e4-496c-9a2c-818c8aaa36ed</Key>
+		<Name>VAT 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>11e650b0-ec87-4e45-9049-10a83ea4bed6</Key>
+		<Name>VAT 20% on Imports</Name>
+		<TaxRate>TotalRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>42a5002c-5c8f-4def-8672-4e6f3fc09654</Key>
+		<Name>VAT Exempt</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>70364d69-174a-4804-881e-852bdbff59e2</Key>
+		<Name>VAT 0% (EU)</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>a30110ee-4bd5-4de5-8865-8f53b42c69ce</Key>
+		<Name>Moms 25%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>25</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>48b07e00-41f5-4955-b70f-9a213e7109db</Key>
+		<Name>Moms 12%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>e3b7e497-03d4-4618-a393-d0f2b5769b11</Key>
+		<Name>Moms 6%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>6</Rate>
+	</TaxCode>
+</TaxCodes>

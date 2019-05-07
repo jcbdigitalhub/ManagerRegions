@@ -1,0 +1,34 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>3fe156dd-2f8d-43dd-9067-40303f9e1795</Key>
+		<Name>GST 16%</Name>
+		<InvoiceTitle>Sales Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>16</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>790363ad-d41d-44e5-87b7-7a7134a44adf</Key>
+		<Name>GST 1%</Name>
+		<InvoiceTitle>Sales Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>1</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>a7237378-85e8-4fa5-a482-ac6abefe8770</Key>
+		<Name>GST 17%</Name>
+		<InvoiceTitle>Sales Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>17</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>ac96f46e-f2b9-41e7-b117-0b5f02b6fd41</Key>
+		<Name>PST 16%</Name>
+		<InvoiceTitle>Sales Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>16</Rate>
+	</TaxCode>
+</TaxCodes>

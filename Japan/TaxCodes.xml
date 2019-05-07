@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>5e89e806-4a3f-4575-8231-5aca6613cf10</Key>
+		<Name>消費税 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>81f4955c-2ce5-47bb-9b2f-9ada6251e14a</Key>
+		<Name>消費税 8%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>8</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>130741e8-e56b-4269-b83a-ad978bb60d4b</Key>
+		<Name>消費税 10%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+</TaxCodes>

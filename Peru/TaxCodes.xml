@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>3fe64bd9-476e-475e-8c7c-c4f0ba36ad20</Key>
+		<Name>IGV 18%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+</TaxCodes>

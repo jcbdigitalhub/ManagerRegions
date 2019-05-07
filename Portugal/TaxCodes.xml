@@ -1,0 +1,30 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>d82058f9-3de3-49f2-a8bb-7ce02cb2d927</Key>
+		<Name>IVA 23%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>23</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>aa3a7647-a97a-43e1-a8ef-cf3ea1e578a6</Key>
+		<Name>IVA 13%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>13</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>4be32655-60bc-4c41-b1c6-d6c40ebf0157</Key>
+		<Name>IVA 10%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>047b2506-4497-4b72-8dc9-803e9a9c0e1f</Key>
+		<Name>IVA 6%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>6</Rate>
+	</TaxCode>
+</TaxCodes>

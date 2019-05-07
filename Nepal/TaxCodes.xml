@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>c94aa840-0694-4423-a4f7-d354666e139e</Key>
+		<Name>VAT 13%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>13</Rate>
+	</TaxCode>
+</TaxCodes>

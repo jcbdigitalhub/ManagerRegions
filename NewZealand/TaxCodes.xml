@@ -1,0 +1,26 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>705acb55-550e-458a-bf9a-c4c7021dc351</Key>
+		<Name>GST Exempt</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>1a88fd08-a595-4e12-97d3-85fc165eecdc</Key>
+		<Name>GST 0%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>ee8cacde-58da-48ec-8aa9-aa6acba9c32f</Key>
+		<Name>GST 15%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>15</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>d865c9b1-17b9-488b-b29b-b15c0b3c3246</Key>
+		<Name>GST 15% on Imports</Name>
+		<TaxRate>TotalRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

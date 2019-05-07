@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>bae034a7-f5aa-4ce2-beec-98766d750715</Key>
+		<Name>VAT 4%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>4</Rate>
+	</TaxCode>
+</TaxCodes>

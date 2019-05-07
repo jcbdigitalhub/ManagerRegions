@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>759e0332-e43f-4162-aa92-958d9251902b</Key>
+		<Name>ПДВ 18%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>52717a51-2915-4f3b-bfb6-13c2f9c3a26d</Key>
+		<Name>ПДВ 10%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>a908a457-403e-4d25-ab10-a03dd2c87ca6</Key>
+		<Name>ПДВ 0,5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>0.5</Rate>
+	</TaxCode>
+</TaxCodes>

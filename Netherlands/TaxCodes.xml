@@ -1,0 +1,93 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>ad40e782-1f1c-486a-91a4-266e7001c8b3</Key>
+		<Name>BTW 6%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>6</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>1f681bc9-93fd-4e09-815f-2f1c6bc5044b</Key>
+		<Name>BTW 6% EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>bddb4876-fd25-49bf-ac71-5365878268ef</Key>
+		<Name>BTW 6% non-EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>d0eca2ec-e9da-40de-9be6-e2e9fb34269a</Key>
+		<Name>BTW 0% EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>75eaae26-98a4-4e1a-9d75-91bf2b7e7b11</Key>
+		<Name>BTW 0% non-EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>ad18e082-df57-44f9-8fd0-ab3c5275d230</Key>
+		<Name>BTW 0% verlegd</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>e5f20470-dffa-4453-a0a9-42a403c04e23</Key>
+		<Name>BTW 6% verlegd</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>ce2c6c96-4364-42a8-8cf3-8315d1a4b246</Key>
+		<Name>BTW 21% verlegd</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>c6b298fa-f994-47ac-b6c0-3299fbac8306</Key>
+		<Name>BTW 0% vrijgesteld</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>33855cc4-964b-44d1-be27-cf268b0ad77d</Key>
+		<Name>BTW 21%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>21</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>93cdbadc-4a15-41ff-bf68-4ed927915680</Key>
+		<Name>BTW 21% EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>3a57686a-7ce6-43e7-aa2a-dc5e98ad931b</Key>
+		<Name>BTW 21% non-EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>31dce658-cff1-4212-870b-5fd04cb83b1c</Key>
+		<Name>BTW 9%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>9</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>4d895b0c-a40c-44ff-b441-9620c7619699</Key>
+		<Name>BTW 9% EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>815852ae-5a5d-4688-aa9b-0b06f3982ef2</Key>
+		<Name>BTW 9% non-EU</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>dd28f171-7422-44a3-937a-432e8d2970ea</Key>
+		<Name>BTW 9% verlegd</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+	<TaxCode>
+		<Key>9f2d06f9-0e16-4192-afa3-bff747910088</Key>
+		<Name>BTW privégebruik</Name>
+		<TaxRate>TotalRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

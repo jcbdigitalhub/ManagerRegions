@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>6cb67642-b5ab-4521-9957-970d4f8479c7</Key>
+		<Name>MVG 25%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>25</Rate>
+	</TaxCode>
+</TaxCodes>

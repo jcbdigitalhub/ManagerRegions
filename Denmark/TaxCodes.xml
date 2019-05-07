@@ -1,0 +1,14 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>467aba82-4efd-4099-9063-624416c1da0b</Key>
+		<Name>moms 25%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>25</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>85abd674-62ad-4aed-bcd9-612214f764b5</Key>
+		<Name>moms 0%</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

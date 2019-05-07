@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>7df559f5-a93f-4c50-8109-1b6462cc65f6</Key>
+		<Name>Ma'am 16%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>16</Rate>
+	</TaxCode>
+</TaxCodes>

@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>064e90b7-a389-469d-b9a2-2489f88d8a1f</Key>
+		<Name>KM 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>55d521dc-5c48-44f8-a1d5-d086e7dc3921</Key>
+		<Name>KM 9%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>9</Rate>
+	</TaxCode>
+</TaxCodes>

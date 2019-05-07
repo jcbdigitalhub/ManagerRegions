@@ -1,0 +1,14 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>66d348cd-e4a6-4445-af17-476191270ae4</Key>
+		<Name>VAT 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>af18b150-f802-4f2a-ab16-9dd30a0d50b5</Key>
+		<Name>VAT 0%</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

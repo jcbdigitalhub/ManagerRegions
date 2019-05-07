@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>d5373473-14e1-4a6c-b006-26d2c966f280</Key>
+		<Name>ALV 24%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>24</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>d8271e69-e5f5-4c4b-8cbc-0ec59cc70119</Key>
+		<Name>ALV 14%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>14</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>99601f9c-2d10-4957-b0f1-2f291fc44c54</Key>
+		<Name>ALV 10%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+</TaxCodes>

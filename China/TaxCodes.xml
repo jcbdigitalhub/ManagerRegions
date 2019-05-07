@@ -1,0 +1,30 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>94167f29-0dcf-486a-b321-b97a575775d2</Key>
+		<Name>增值税 17%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>17</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>6747ec02-88a2-4029-a98f-1838b6f2958a</Key>
+		<Name>增值税 13%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>13</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>3d3ef7da-c30c-4c51-8b18-2709033a1935</Key>
+		<Name>增值税 6%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>6</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>f89a7327-300a-4270-8c66-7791b45722e3</Key>
+		<Name>增值税 3%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>3</Rate>
+	</TaxCode>
+</TaxCodes>

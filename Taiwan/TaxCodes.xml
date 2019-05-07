@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>976502bf-87c3-4470-ba3d-5b4c65f6d4d1</Key>
+		<Name>增值稅 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

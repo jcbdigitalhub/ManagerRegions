@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>d7eba1a0-d27c-465c-94ca-38e7b480266a</Key>
+		<Name>ДДВ 18%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>8fad8a0f-f932-454e-b90b-7b48b6a02e1a</Key>
+		<Name>ДДВ 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

@@ -1,0 +1,35 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>01324570-474b-48bc-b893-d8fdc08a0a0f</Key>
+		<Name>VAT 25%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>25</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>283c571f-55dd-4b10-aac8-d7686e593286</Key>
+		<Name>VAT 15%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>15</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>5a71058a-c8d0-46a5-81a4-3cee4320aae0</Key>
+		<Name>VAT 14%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>14</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>023bf9ff-ad08-48d2-9913-db2f9f4dec4b</Key>
+		<Name>VAT 8%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>8</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>454d3e9e-805e-4c42-a79e-17ca98bc397c</Key>
+		<Name>VAT 0%</Name>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

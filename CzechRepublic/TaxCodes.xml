@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>f484f372-a1b8-4d2f-81c2-eebe662e11f4</Key>
+		<Name>DPH 21%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>21</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>25919a92-2c62-435d-9f67-251d887346b3</Key>
+		<Name>DPH 15%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>15</Rate>
+	</TaxCode>
+</TaxCodes>

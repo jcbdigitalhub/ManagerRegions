@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>915ad279-974c-41e0-9fb8-e2d656112913</Key>
+		<Name>PDV 17%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>17</Rate>
+	</TaxCode>
+</TaxCodes>

@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>4418affd-c9c0-4984-b69d-a43250257e73</Key>
+		<Name>DDV 22%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>22</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>684e513e-84ea-4c8f-a133-cf3c81b05097</Key>
+		<Name>DDV 9,5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>9.5</Rate>
+	</TaxCode>
+</TaxCodes>

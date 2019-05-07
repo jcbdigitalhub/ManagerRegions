@@ -1,0 +1,42 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>19c66489-8c41-430c-a431-5a71d32191cc</Key>
+		<Name>VAT 12%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>0ecba67c-4ea1-4948-adf5-57f369d139cd</Key>
+		<Name>VAT 15%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>15</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>3b72c684-5f9d-42de-b793-3c07bb6cd625</Key>
+		<Name>NBT 2%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>2</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>02fcabe1-0c59-4bd9-ac5d-8be97c525608</Key>
+		<Name>SER 10%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>10</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>e250fa98-fe24-4e90-923b-2ae4139d9b66</Key>
+		<Name>VNT 17.3%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>17.3</Rate>
+	</TaxCode>
+</TaxCodes>

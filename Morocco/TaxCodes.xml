@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>74e7a2c9-f7b4-4fe5-8e09-e98ff8e78ccb</Key>
+		<Name>GST 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+</TaxCodes>

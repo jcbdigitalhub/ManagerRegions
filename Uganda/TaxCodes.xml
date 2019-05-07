@@ -1,0 +1,10 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>48b92558-bf91-4157-8e98-584298a1cceb</Key>
+		<Name>VAT 18%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+</TaxCodes>

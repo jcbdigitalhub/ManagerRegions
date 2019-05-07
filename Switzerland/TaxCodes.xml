@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>15359935-1449-43f4-8dc0-26c4010e51d3</Key>
+		<Name>MWST 8%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>8</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>fa67c7d5-9a7b-4071-b13b-3b9e26fe8097</Key>
+		<Name>MWST 3,8%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>3.8</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>a39564bf-cf89-41a1-bf66-fc8f223189c4</Key>
+		<Name>MWST 2,5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>2.5</Rate>
+	</TaxCode>
+</TaxCodes>

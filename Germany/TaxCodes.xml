@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>13fe02d9-c454-42d2-beb5-53d79d28784b</Key>
+		<Name>MwSt. 19%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>19</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>0283b674-28e5-473b-a23f-ca7610608681</Key>
+		<Name>MwSt. 7%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>7</Rate>
+	</TaxCode>
+</TaxCodes>

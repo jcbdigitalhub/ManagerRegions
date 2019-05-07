@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>32fb9a57-94c0-40d4-b6ba-1d7d617abed2</Key>
+		<Name>GST 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

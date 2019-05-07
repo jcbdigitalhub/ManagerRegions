@@ -1,0 +1,16 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>332337b2-6c58-4c65-abbb-7d3418140671</Key>
+		<Name>ITBIS 16%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>16</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>5cfa2e50-116e-40fc-afc4-e2f138a50989</Key>
+		<Name>ITBIS 12%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>12</Rate>
+	</TaxCode>
+</TaxCodes>

@@ -1,0 +1,23 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>3641edbe-c260-45f9-8409-33499cfe4c6f</Key>
+		<Name>ÁFA 27%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>27</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>9980049b-5382-4435-9bda-daab936fbf8c</Key>
+		<Name>ÁFA 18%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>18</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>da780b45-5557-48aa-815e-a767d9bb7140</Key>
+		<Name>ÁFA 5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

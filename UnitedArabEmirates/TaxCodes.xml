@@ -1,0 +1,81 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>db11ebce-d3f0-4ee4-9844-5353ea20d46b</Key>
+		<Name>VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>fbb90811-b509-4bec-8c5a-f3b5d8c29a1e</Key>
+		<Name>ADH VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>10c50f56-22bb-4832-a4b1-3297c6ff9846</Key>
+		<Name>AJM VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>730d67ef-b28e-4a9a-adcc-3daefd8d2158</Key>
+		<Name>DXB VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>948b0d2c-f249-45bc-b63d-4610b0332e09</Key>
+		<Name>FUJ VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>4a014b9e-ada0-479c-82c7-620ca98e795d</Key>
+		<Name>RAK VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>aad159c3-996b-4daf-85db-df8a1fbc41ce</Key>
+		<Name>SHJ VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>e6fc4000-76aa-4382-883b-4a7698815774</Key>
+		<Name>UAQ VAT 5%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>0090568c-9206-4790-b048-cf5bbc38e600</Key>
+		<Name>VAT 0%</Name>
+		<InvoiceTitle>Tax Invoice</InvoiceTitle>
+		<CreditNoteTitle>Tax Credit Note</CreditNoteTitle>
+		<TaxRate>ZeroRate</TaxRate>
+	</TaxCode>
+</TaxCodes>

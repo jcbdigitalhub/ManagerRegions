@@ -1,0 +1,26 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>4339f5cd-81b5-42ac-a79f-685323279e2b</Key>
+		<Name>PVM 21%</Name>
+		<InvoiceTitle>PVM sąskaita faktūra</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>21</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>c6073012-fd45-4488-83e9-ce48db55fe0c</Key>
+		<Name>PVM 9%</Name>
+		<InvoiceTitle>PVM sąskaita faktūra</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>9</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>dc966c1c-db30-4d38-aa77-ea04a6aa51e0</Key>
+		<Name>PVM 5%</Name>
+		<InvoiceTitle>PVM sąskaita faktūra</InvoiceTitle>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>5</Rate>
+	</TaxCode>
+</TaxCodes>

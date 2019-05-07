@@ -1,0 +1,30 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>e57a094f-de41-448c-b7a6-d6327029213c</Key>
+		<Name>VSK 24%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>24</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>8d18a4f8-3cd9-45e4-bdc2-2e3d838e4a08</Key>
+		<Name>VSK 11%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>11</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>e06f77bd-bc54-446d-9731-4f976eb2d654</Key>
+		<Name>VSK 25,5%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>25.5</Rate>
+	</TaxCode>
+	<TaxCode>
+		<Key>95114a03-a261-4f26-95c8-263f64a5c936</Key>
+		<Name>VSK 7%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>7</Rate>
+	</TaxCode>
+</TaxCodes>

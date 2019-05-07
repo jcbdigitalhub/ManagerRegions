@@ -1,0 +1,9 @@
+<TaxCodes>
+	<TaxCode>
+		<Key>5286cacb-8380-45f4-93ba-4cc6805f3aad</Key>
+		<Name>AAH 20%</Name>
+		<TaxRate>CustomRate</TaxRate>
+		<TaxRateType>SingleRate</TaxRateType>
+		<Rate>20</Rate>
+	</TaxCode>
+</TaxCodes>
